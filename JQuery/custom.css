@@ -1,0 +1,52 @@
+#slide ,#slideDiv{
+    background-color: royalblue;
+    padding:10px;
+    height: 50px;
+    border: 2px solid black;
+}
+
+#slideDiv{
+    display: none;
+}
+
+#div7{
+    position: absolute;
+}
+#div10{
+    position:absolute;
+}
+
+#div11{
+    background-color: yellow;
+    padding: 20px;
+    border: 1px solid black;
+    margin-top: 100px;
+}
+
+#div12{
+    display: none;
+    padding: 20px;
+    color: black;
+    background-color: yellow;
+}
+
+#div13{
+    color: darkblue;
+}
+
+.pink{
+    color:pink;
+}
+
+.red{
+    color:red
+}
+
+.green{
+    color:green;
+}
+
+.important{
+    font-size: xx-large;
+}
+
